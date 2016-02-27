@@ -15,6 +15,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [getrefe.tumblr.com](http://getrefe.tumblr.com/) - photos of people interacting with technology for personal or commercial projects
 * [gratisography.com](http://www.gratisography.com/) - all pictures are free of copyright restrictions
 * [imcreator.com](http://imcreator.com/free) - requires attribution
+* [isorepublic.com](http://isorepublic.com/) - high-quality, free photos for creatives.
 * [jaymantri.com](http://jaymantri.com/) - entirely free of copyrights. 7 new photos every thursday.
 * [kaboompics.com](http://kaboompics.com/)
 * [lifeofpix.com](http://www.lifeofpix.com/) - images for personal & commercial use. all images are donated to the public domain
@@ -25,6 +26,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [moveast.me](http://moveast.me/) - a guy on a photographic journey. all images are CC0
 * [nos.twnsnd.co](http://nos.twnsnd.co/) - vintage images, free of any copyright restrictions
 * [pexels.com](http://www.pexels.com/) - beautiful collection of photos, free of licenses
+* [photostockeditor.com](http://www.photostockeditor.com/) - free high-resolution images for personal and commercial use
 * [picjumbo.com](http://picjumbo.com/) - totally free photos for your commercial & personal works
 * [picography.co](http://picography.co/) - free of licences
 * [Pixabay](https://pixabay.com/) - CC0 photos, vector graphics, and illustrations
@@ -32,7 +34,6 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [publicphoto.org](http://publicphoto.org/) - public domain photos
 * [raumrot.com](http://www.raumrot.com/)
 * [resplashed.com](http://www.resplashed.com/) - HD images for your web and design projects. CC0.
-* [snapographic.com](http://snapographic.com/) - free of licences
 * [SpaceX](https://www.flickr.com/photos/spacexphotos) - high resolution Space-related media in the public domain
 * [splitshire.com](http://splitshire.com/) - delicious free stock photos for personal & commercial use
 * [startupstockphotos.com](http://startupstockphotos.com/) - startup related photos, free of licences
